@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.thecontainer {
+  height: 100vh;
+  width: 95vw;
+  background-color: #ffffff;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.theheading {
+  font-size: 20px;
+  font-weight: 100;
+}
+.thepara {
+  font-size: 10px;
+  color: #2d3a35;
+}
+.thebutton {
+  background-color: #007bff;
+  height: 20px;
+  width: 50px;
+  color: #ffffff;
+  border-radius: 20px;
+}
+.spanel {
+  color: #c20a72;
+  font-size: 15px;
+}
